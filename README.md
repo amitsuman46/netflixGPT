@@ -12,7 +12,12 @@
 - create SignUp User Account
 - implement Sign IN User API
 - Created Redux Store for saving user details with userSlice
-
+- Implement SIgn Out
+- Update Slice
+- BugFix: Sign up user display name and profile picture update
+- BugFix: if the user is not logged in then redirect /browse to Login page and vice versa
+- Unsubscribed to the onAuthStateChanged callback
+- Add hardcoded value to the constants file
 # Features
 - Login/ Sign Up
     - Signin / SignUp Form
